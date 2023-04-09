@@ -1,1 +1,20 @@
-/* You can add global styles to this file, and also import other style files */
+
+
+.example-form {
+    margin: 50px;
+    text-align: center;
+  }
+  
+.example-full-width {
+    width: 20%;
+    margin: 15px;
+  }
+
+  .pac-container {
+    box-sizing: content-box;
+    padding-left: 0px;
+    padding-right: 15Px;
+    max-width: 100%;
+
+    
+  }
